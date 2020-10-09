@@ -1,3 +1,8 @@
+### List Of Cases
+---
+| Issue Id | App Version | Bug Data(report,video) | Reproducible? | Note |
+| :----: | :----: | :----: | :----: | :----: |
+| 1 | v0.19.8 / 0.20.0 RC | 
 <p align="center"><a href="https://newpipe.schabi.org"><img src="assets/new_pipe_icon_5.png" width="150"></a></p> 
 <h2 align="center"><b>NewPipe</b></h2>
 <h4 align="center">A libre lightweight streaming frontend for Android.</h4>
