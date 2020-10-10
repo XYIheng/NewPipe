@@ -3,26 +3,26 @@
 
 | Issue Id | App Version         | Bug Data(report,video)                                      | Reproducible? | Note                                                         |
 | -------- | ------------------- | ----------------------------------------------------------- | ------------- | ------------------------------------------------------------ |
-| 1        | v0.19.8 / 0.20.0 RC | [#4339](https://github.com/TeamNewPipe/NewPipe/issues/4339) | yes           |                                                              |
-| 2        | b69e477             | [#4293](https://github.com/TeamNewPipe/NewPipe/issues/4293) | yes           |                                                              |
-| 3        | b69e477             | [#4292](https://github.com/TeamNewPipe/NewPipe/issues/4292) | yes           |                                                              |
-| 4        | 530f745             | [#4286](https://github.com/TeamNewPipe/NewPipe/issues/4286) | yes           |                                                              |
-| 5        | v0.19.8             | [#4214](https://github.com/TeamNewPipe/NewPipe/issues/4214) | yes           |                                                              |
-| 6        | v0.19.2             | [#4113](https://github.com/TeamNewPipe/NewPipe/issues/4113) | yes           |                                                              |
-| 7        | v0.19.5             | [#3760](https://github.com/TeamNewPipe/NewPipe/issues/3760) | yes           |                                                              |
-| 8        | v0.19.5             | [#3610](https://github.com/TeamNewPipe/NewPipe/issues/3610) | yes           | issue said in version 0.19.3, I found the bug in version 0.19.5 |      
-| 9        | v0.19.3             | [#3584](https://github.com/TeamNewPipe/NewPipe/issues/3584) | yes           |                                                         |
-| 10       | v0.19.2             | [#3496](https://github.com/TeamNewPipe/NewPipe/issues/3496) | yes           |                                                              |
-| 11        | v0.19.1 | [#3416](https://github.com/TeamNewPipe/NewPipe/issues/3416) | yes | |
-| 12 | v0.19.2 | [#3407](https://github.com/TeamNewPipe/NewPipe/issues/3407) | yes | |
-| 13 | v0.18.7 | [#2758](https://github.com/TeamNewPipe/NewPipe/issues/2758) | yes | |
-| 14 | v0.17.2 | [#2644](https://github.com/TeamNewPipe/NewPipe/issues/2644) | yes | |
-| 15 | v0.19.8 | [#4260](https://github.com/TeamNewPipe/NewPipe/issues/4260) | no | not clear how to reproduce it |
-| 16 | v0.19.8 | [#4247](https://github.com/TeamNewPipe/NewPipe/issues/4247) | no | can not reproduce this bug |
-| 17 | d2e6700 | [#4131](https://github.com/TeamNewPipe/NewPipe/issues/4131) | no | |
-| 18 | v0.19.2  | [#3438](https://github.com/TeamNewPipe/NewPipe/issues/3438) | no | error when search streams so that can not reproduce the bug |
-| 19 | v0.18.7 | [#3284](https://github.com/TeamNewPipe/NewPipe/issues/3284) | no | I can not reproduce this bug while others can |
-| 20 | v0.18.7 | [#3269](https://github.com/TeamNewPipe/NewPipe/issues/3269) | no | error when search streams so that can not reproduce the bug  |
+| 1        | v0.19.8 / 0.20.0 RC | [#4339](https://github.com/TeamNewPipe/NewPipe/issues/4339),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/4339) | yes           |                                                              |
+| 2        | b69e477             | [#4293](https://github.com/TeamNewPipe/NewPipe/issues/4293),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/4293) | yes           |                                                              |
+| 3        | b69e477             | [#4292](https://github.com/TeamNewPipe/NewPipe/issues/4292),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/4292) | yes           |                                                              |
+| 4        | 530f745             | [#4286](https://github.com/TeamNewPipe/NewPipe/issues/4286),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/4286) | yes           |                                                              |
+| 5        | v0.19.8             | [#4214](https://github.com/TeamNewPipe/NewPipe/issues/4214),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/4214) | yes           |                                                              |
+| 6        | v0.19.2             | [#4113](https://github.com/TeamNewPipe/NewPipe/issues/4113),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/4113) | yes           |                                                              |
+| 7        | v0.19.5             | [#3760](https://github.com/TeamNewPipe/NewPipe/issues/3760),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/3760) | yes           |                                                              |
+| 8        | v0.19.5             | [#3610](https://github.com/TeamNewPipe/NewPipe/issues/3610),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/3610) | yes           | issue said in version 0.19.3, I found the bug in version 0.19.5 |
+| 9        | v0.19.3             | [#3584](https://github.com/TeamNewPipe/NewPipe/issues/3584),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/3584) | yes           |                                                         |
+| 10       | v0.19.2             | [#3496](https://github.com/TeamNewPipe/NewPipe/issues/3496),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/3496) | yes           |                                                              |
+| 11        | v0.19.1 | [#3416](https://github.com/TeamNewPipe/NewPipe/issues/3416),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/3416) | yes | |
+| 12 | v0.19.2 | [#3407](https://github.com/TeamNewPipe/NewPipe/issues/3407),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/3407) | yes | |
+| 13 | v0.18.7 | [#2758](https://github.com/TeamNewPipe/NewPipe/issues/2758),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/2750) | yes | |
+| 14 | v0.17.2 | [#2644](https://github.com/TeamNewPipe/NewPipe/issues/2644),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/2644) | yes | |
+| 15 | v0.19.8 | [#4260](https://github.com/TeamNewPipe/NewPipe/issues/4260),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/4260) | no | not clear how to reproduce it |
+| 16 | v0.19.8 | [#4247](https://github.com/TeamNewPipe/NewPipe/issues/4247),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/4247) | no | can not reproduce this bug |
+| 17 | d2e6700 | [#4131](https://github.com/TeamNewPipe/NewPipe/issues/4131),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/4131) | no | |
+| 18 | v0.19.2  | [#3438](https://github.com/TeamNewPipe/NewPipe/issues/3438),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/3438) | no | error when search streams so that can not reproduce the bug |
+| 19 | v0.18.7 | [#3284](https://github.com/TeamNewPipe/NewPipe/issues/3284),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/3284) | no | I can not reproduce this bug while others can |
+| 20 | v0.18.7 | [#3269](https://github.com/TeamNewPipe/NewPipe/issues/3269),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/3269) | no | error when search streams so that can not reproduce the bug  |
 
 
 
