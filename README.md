@@ -17,12 +17,12 @@
 | 12 | v0.19.2 | [#3407](https://github.com/TeamNewPipe/NewPipe/issues/3407),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/3407) | yes | |
 | 13 | v0.18.7 | [#2758](https://github.com/TeamNewPipe/NewPipe/issues/2758),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/2750) | yes | |
 | 14 | v0.17.2 | [#2644](https://github.com/TeamNewPipe/NewPipe/issues/2644),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/2644) | yes | |
-| 15 | v0.19.8 | [#4260](https://github.com/TeamNewPipe/NewPipe/issues/4260),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/4260) | no | not clear how to reproduce it |
-| 16 | v0.19.8 | [#4247](https://github.com/TeamNewPipe/NewPipe/issues/4247),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/4247) | no | can not reproduce this bug |
-| 17 | d2e6700 | [#4131](https://github.com/TeamNewPipe/NewPipe/issues/4131),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/4131) | no | |
-| 18 | v0.19.2  | [#3438](https://github.com/TeamNewPipe/NewPipe/issues/3438),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/3438) | no | error when search streams so that can not reproduce the bug |
-| 19 | v0.18.7 | [#3284](https://github.com/TeamNewPipe/NewPipe/issues/3284),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/3284) | no | I can not reproduce this bug while others can |
-| 20 | v0.18.7 | [#3269](https://github.com/TeamNewPipe/NewPipe/issues/3269),[video](https://github.com/XYIheng/NewPipe/tree/dev/data/3269) | no | error when search streams so that can not reproduce the bug  |
+| 15 | v0.19.8 | [#4260](https://github.com/TeamNewPipe/NewPipe/issues/4260) | no | not clear how to reproduce it |
+| 16 | v0.19.8 | [#4247](https://github.com/TeamNewPipe/NewPipe/issues/4247) | no | can not reproduce this bug |
+| 17 | d2e6700 | [#4131](https://github.com/TeamNewPipe/NewPipe/issues/4131) | no | |
+| 18 | v0.19.2  | [#3438](https://github.com/TeamNewPipe/NewPipe/issues/3438)| no | error when search streams so that can not reproduce the bug |
+| 19 | v0.18.7 | [#3284](https://github.com/TeamNewPipe/NewPipe/issues/3284) | no | I can not reproduce this bug while others can |
+| 20 | v0.18.7 | [#3269](https://github.com/TeamNewPipe/NewPipe/issues/3269) | no | error when search streams so that can not reproduce the bug  |
 
 
 
